@@ -1,12 +1,12 @@
-initialize_submodule:
-	git submodule init && git submodule update --init --recursive
-
 install_prerequisites_debian:
 	sudo apt-get update
 	sudo apt-get install build-essential tar curl zip unzip
 
 install_prerequisites_mac:
 	xcode-select --install
+
+initialize_submodule:
+	git submodule init && git submodule update --init --recursive
 
 initialize_vcpkg_unix: initialize_submodule
 	echo {} >> vcpkg.json
