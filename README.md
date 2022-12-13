@@ -4,6 +4,7 @@ Thanks for [vcpkg](https://github.com/microsoft/vcpkg), we can easily bring lots
 If you get more detail information about vcpkg, please visit sites below!
 - [Official repository](https://github.com/microsoft/vcpkg)
 - [Official webpage](https://vcpkg.io/en/index.html)
+- [Docs](https://vcpkg.readthedocs.io/en/latest/README/)
 
 ## How to use this repository
 
