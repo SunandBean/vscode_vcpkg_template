@@ -1,5 +1,5 @@
 {
-  "name": "vscode_vcpkg_template",
+  "name": "vscode-vcpkg-template",
   "version-string": "1.0.0",
   "dependencies":[
     {
