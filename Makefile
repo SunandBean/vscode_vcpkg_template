@@ -3,6 +3,7 @@ install_prerequisites_debian:
 	sudo apt-get install build-essential tar curl zip unzip
 
 install_prerequisites_mac:
+	brew install pkg-config
 	xcode-select --install
 
 initialize_submodule:
